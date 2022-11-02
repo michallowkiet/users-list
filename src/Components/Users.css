@@ -1,0 +1,20 @@
+.users h1 {
+  color: var(--clr-title);
+}
+
+.users input {
+  padding: 0.5rem;
+  border: 2px solid #fff;
+}
+
+.users button {
+  padding: 0.5rem;
+  background-color: var(--bg-button);
+  color: #fff;
+  border: 2px solid var(--bg-button);
+  margin-left: 0.5rem;
+}
+
+.users button:hover {
+  background-color: var(--bg-button-hover);
+}
